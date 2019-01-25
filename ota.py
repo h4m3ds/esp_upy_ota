@@ -1,1 +1,1 @@
-print ("new ota version")
+print ("new ota version from github")
